@@ -1,0 +1,254 @@
+<section id="section-introduction" data-params='{"module":"magazine","controller":"introduction","action":"index","slug":"white-season-2017","lang":"en-us"}' data-jsfile="introduction" data-pagetitle="Longines Sports Magazines | Longines">
+
+    
+
+<div class="pagetemplate-header">    
+    <div class="header-background-wrapper">
+        <img class="header-background1" data-srcdesktop="mag/uploads/magazine/introduction/picture/cover-white-season-2017-introduction-1920x1400.jpg"
+                    data-widthdesktop="1920" data-heightdesktop="1400"
+                          
+             />
+
+                    <img class="header-background2 hide-onmobile" data-srcdesktop="mag/uploads/magazine/introduction/picture/header/plan1/cover-white-season-2017-introduction-1920x1400.png"
+                    data-widthdesktop="1920" data-heightdesktop="1400" data-srctablet="mag/uploads/magazine/introduction/picture/header/plan1/tablet/cover-white-season-2017-introduction-1300x948.png"
+                    data-widthtablet="1300" data-heighttablet="948"/>
+        
+                    <img class="header-background3 hide-onmobile" data-srcdesktop="mag/uploads/magazine/introduction/picture/header/plan2/cover-white-season-2017-introduction-1920x1400.png"
+                    data-width="1920" data-height="1400" data-srctablet="mag/uploads/magazine/introduction/picture/header/plan2/tablet/cover-white-season-2017-introduction-1300x948.png"
+                    data-widthtablet="1300" data-heighttablet="948"/>
+            </div>
+    
+    <img class="header-particle1 no-resize" src="skins/magazine/images/template/header/particle.png" />
+    <img class="header-particle2 no-resize" src="skins/magazine/images/template/header/particle.png" />        
+    
+    <div class="text-wrapper v-align with-logo">                    
+        <span class="v-align-before"></span>
+        <div class="v-align-div">  
+                            <img class="header-logo" src="mag/uploads/magazine/introduction/logo/logo-white-season-2017-136x146.png" />
+                        <div class="text-content">
+                <h2 class="header-title" style='color: #ffffff'>
+                    Introduction - White Season                </h2>
+                <h1 class="header-subtitle" style='color: #ffffff'>
+                    <span>A winter magazine</span><br/><span>by longines</span>
+                </h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="scrollto-wrapper">
+        <div class="scrollto-content">
+            <div class="scrollto-circle"></div>
+            <svg height="120" width="120"><circle cx="60" cy="60" r="59" stroke="#003150" stroke-width="3" fill="transparent"/></svg>
+
+            <div class="scrollto-text">Scroll <br/>to explore</div>
+            <i class="sprite icon-general-arrow-bottom-white"></i>
+        </div>
+    </div>
+    
+    <a href="magazine" class="sprite icon-logo-longines-white  hide-onmobile"></a>
+</div>    
+    <div class="introduction-text-wrapper">
+        <div class="introduction-text-title trigger-animation" data-anim="appear">
+            <div class="title-row"></div>
+            <span>Introduction</span>
+        </div>
+        <div class="introduction-text-description trigger-animation" data-anim="appear">Longines has been putting its expertise in sports timekeeping to use in the realms of Alpine skiing for many years. The winged hourglass brand takes to the slopes again this season as Official Timekeeper of the Alpine Skiing World Cup, and will be celebrating the 50" anniversary of this international competition alongside the International Ski Federation. It is an ideal opportunity to look back at how the World Cup has changed since its beginnings, to showcase some key events on the calendar, and to present the American stage, when the finals of this historic season are to be hosted in Aspen, Colorado. Longines will also present the Official Watch of this winter season: the Conquest 1/100th Alpine Skiing, a chronograph specifically designed for professionals and downhill skiing enthusiasts. Moreover, Longines is delighted to link its name and know-how to the famous alpine village of St. Moritz. From now on the Office of Tourism, the Swiss Ski School and the ski lifts are featuring the colours of the brand with the winged hourglass. This engagement builds on Longines' long-standing involvement with timekeeping for sports events, as it will be the Official Timekeeper of the FIS Alpine World Ski Championships to be hosted in 2017 at the spectacular resort of St. Moritz. To further mark the collaboration, Longines has launched an exclusive watch created especially for the town: the Conquest St. Moritz. The brand is also proud to count two outstanding ski champions among its Ambassadors of Elegance, Mikaela Shiffrin and Aksel Lund Svindal. With their passionate commitment and steely determination, both athletes embody the company's sporting values with panache, on and off the slopes. You can also find out more about Longines commitment to the next generation through the Longines Rising Ski Stars and Longines Future Ski Champions.</div>
+    
+    </div>
+    
+    <div class="separator-navigation-mobile hide-ondesktop hide-ontablet"></div>
+
+<div class="summary-wrapper  no-title ">
+            <div class="magazine-item trigger-animation" data-anim="summary">
+            
+            
+            <div class="magazinepage-wrapper">
+                <div class="magazinepage-content">
+                    <div class="magazinepage-marginleft">
+                        
+                                                    <a href="magazine/white-season-2017/chapter-01" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-01-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-01-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">01</div>
+                                    <div class="magazinepage-title">Timekeeping by Longines</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-02" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-02-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-02-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">02</div>
+                                    <div class="magazinepage-title">50 years FIS ski world cup</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-03" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-03-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-03-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">03</div>
+                                    <div class="magazinepage-title">Events around the world</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-04" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-04-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-04-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">04</div>
+                                    <div class="magazinepage-title">Interview with Markus Waldner</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-05" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-05-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-05-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">05</div>
+                                    <div class="magazinepage-title">FIS ski world cup – Aspen</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-06" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-06-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-06-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">06</div>
+                                    <div class="magazinepage-title">FIS president, Gian-Franco Kasper</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-07" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-07-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-07-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">07</div>
+                                    <div class="magazinepage-title">Behind the scenes</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-08" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-08-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-08-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">08</div>
+                                    <div class="magazinepage-title">Interview with Maxime Mosset</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-09" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-09-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-09-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">09</div>
+                                    <div class="magazinepage-title">St. Moritz</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-10" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-10-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-10-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">10</div>
+                                    <div class="magazinepage-title">Interview with Aksel Lund Svindal</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/white-season-2017/chapter-11" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-11-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-11-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">11</div>
+                                    <div class="magazinepage-title">Longines awards</div>
+                                </div>
+                            </a>
+                                            </div>
+                </div>
+
+                <div class="magazinepage-next">
+                    <i class="sprite icon-general-arrow-right-white-big"></i>
+                </div>
+                <div class="magazinepage-prev">
+                    <i class="sprite icon-general-arrow-left-white-big"></i>
+                </div>
+            </div>
+
+            <div class="magazine-navigation no-left">
+                <div class="navigation-progress">
+                    <div class="progress-notfilled"></div>
+                    <div class="progress-filled"></div>
+                </div>
+
+                <div class="navigation-cursor">
+                    <div class="cursor-white"></div>
+                    <div class="cursor-left sprite icon-summary-arrow-left-blue"></div>
+                    <div class="cursor-center"></div>
+                    <div class="cursor-border"></div>
+                    <div class="cursor-right sprite icon-summary-arrow-right-blue"></div>
+                </div>
+            </div>            
+        </div>
+            
+</div>  
+    
+</section>
+
+<div id="widget-footer">
+    
+    <div class="footer-mention">© 2017 Longines Watch Co. Francillon Ltd., All rights reserved</div>
+    
+    <a href="magazine" class="sprite icon-logo-longines-blue"></a>
+    
+    <div class="footer-backtotop">
+        <span>Back to top</span>
+        <i class="sprite icon-general-arrow-top-blue"></i>
+    </div>
+
+</div>

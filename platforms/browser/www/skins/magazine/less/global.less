@@ -1,0 +1,62 @@
+body.magazine {
+    background: white;
+    
+    #body-content {
+        max-width: none;
+    }
+    
+    #root-content {
+        padding-top: 0px;
+        .opacity(0);
+        z-index: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    
+    header {
+        display: none;
+        
+        .content {max-width: 100%;}
+        
+        #close-header-magazine {
+            position: absolute;
+            cursor: pointer;
+            left: 140px;
+            top: 19px;
+            
+            html.mobile & {
+                left: 60px;
+            }
+        }
+    }
+    
+    footer {.opacity(0);}
+    
+    section {
+        padding-top: 0px;
+    }
+}
+
+body[data-isexport='1'] {
+    img {.backface-visibility();}
+}
+
+html, body {
+    height: 100% !important;
+    overflow: hidden !important;
+    background: white;
+    
+    #body-content {
+        height: 100%;
+        overflow: hidden;
+        background: white;
+        
+        #root-content {
+            overflow: hidden;
+            height: 100%;
+        }
+    }
+}
+
+html.firefox {
+    -moz-osx-font-smoothing: grayscale;
+}
