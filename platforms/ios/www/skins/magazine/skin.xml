@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin>
+    <style>
+
+        <!-- LESS -->
+        <less>style.less</less>
+
+    </style>
+
+    <scripts>
+        <script>js/libs/jquery.min.js</script>
+        <script>js/libs/TweenMax.min.js</script>
+        <script>js/libs/jquery.loader.js</script>
+        
+        <script>js/libs/jquery.debounce.js</script>
+        <script>js/libs/jquery.mousewheel.js</script>
+        <script>js/libs/native.history.js</script>
+        <script>js/libs/fastclick.js</script>
+
+        <script>js/libs/perso/detectNavigators.js</script>
+        <script>js/libs/perso/resizeElement.js</script>
+        <script>js/libs/perso/magazine/slideshow.js</script>
+        <script>js/libs/perso/magazine/vector2.js</script>
+        <script>js/libs/perso/magazine/scroller-scrollbar.js</script>
+        <script>js/libs/perso/magazine/scroller.js</script>
+        <script>js/libs/perso/magazine/blittercanvas.js</script>
+        <script>js/libs/perso/tracking.js</script>
+        <script>js/libs/perso/route.js</script>
+        
+		<script>js/libs/jquery.columnizer.min.js</script>
+		
+        <script>js/magazine/section/index/index.js</script>
+        <script>js/magazine/section/introduction/index.js</script>
+        <script>js/magazine/section/page/index.js</script>
+		
+		<script>js/widget/language.js</script>
+		<script>js/widget/search.js</script>
+		<script>js/widget/menu.js</script>
+        <script>js/widget/cookie.js</script>
+        <script>js/magazine/dispatch.js</script>
+        
+        <script>js/magazine/widget/summary.js</script>
+        <script>js/magazine/widget/navigation.js</script>
+        <script>js/magazine/widget/videoplayer.js</script>
+        
+        <script>js/magazine/animation/letter.js</script>
+        <script>js/magazine/animation/mask.js</script>
+        <script>js/magazine/animation/parallax.js</script>
+        <script>js/magazine/animation/css.js</script>
+        <script>js/magazine/animation/summary.js</script>
+        
+        <script>js/magazine/template/header.js</script>
+
+    </scripts>
+</skin>

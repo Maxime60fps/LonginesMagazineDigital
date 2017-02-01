@@ -1,0 +1,396 @@
+#navigation-progress-wrapper {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    width: 60px;
+    display: none;
+    cursor: pointer;
+    overflow: hidden;
+    z-index: auto;
+    .backface-visibility();
+    
+    html.tablet & {top: 80px;}
+    html.mobile & {top: 40px;}
+    
+    .navigation-progress-background {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        height: 100%;
+        width: 5px;
+        background: #cbe4f7;
+    }
+    
+    .navigation-progress {
+        background: #002744;
+        position: absolute;
+        bottom: 100%;
+        width: 5px;
+        height: 100%;
+        will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+        left: 0px;
+        .transition(transform 0.2s linear);
+        
+        html.touch & {.transition(none);}
+        
+        .navigation-number {
+//            .freightdisp_probold(); //CP
+            .romain_bp_headlinebold();
+            font-style: italic;
+            color: #002744;
+            position: absolute;
+            left: 14px;
+            bottom: 0px;
+            font-size: 18px;
+            
+            html.mobile & {display: none;}
+        }
+    }
+}
+
+#navigation-menu-wrapper {
+    position: absolute;
+    left: 37px;
+    top: 26px;
+    height: 59px;
+    line-height: 59px;
+    cursor: pointer;
+    white-space: nowrap;
+    
+    html.tablet & {z-index: 2; top: 10px; left: 9px;}
+    html.mobile & {z-index: 2; top: 7px; left: 5px; height: 40px; line-height: 40px; top: 0px;}
+    
+    html.ie7 &, html.ie8 & {z-index: 2; white-space: nowrap;}
+    
+    .menu-header {
+        width: 59px;
+        height: 100%;
+        text-align: center;
+        border: 1px solid #e5e9ec;
+        .box-sizing();
+        padding-top: 22px;
+        .background-transparent();
+        .inline-block();
+        vertical-align: top;
+        border-color: transparent;
+        will-change: border;
+        position: relative;
+        
+        html.tablet & {padding-top: 19px; border: none;}
+        html.mobile & {padding-top: 11px; border: none; width: 40px;}
+        html.ie7 & {height: 80px;}
+        
+        .overlay {
+            width: 0%;
+            position: absolute;
+            right: 0px;
+            height: 100%;
+            background: #002744;
+            top: 0px;
+            .transition(width 0.5s cubic-bezier(0.4, 0, 0.2, 1));
+            
+            html.ie7 &, html.ie8 &,html.ie9 & {display: none !important;}
+        }
+        
+        &.blue {
+            span {
+                background: #002744;
+            }
+            
+            html.notouch:not(.ie7):not(.ie8):not(.ie9) &:hover {
+                .overlay {
+                    width: 100%;
+                }
+
+                span {
+                    background: white;
+                }
+            }
+        }
+        
+        &:not(.blue) {
+            html.notouch:not(.ie7) &:hover, html.notouch:not(.ie8) &:hover {
+                span:nth-child(2) {
+                    .translate3d(-2px, 0, 0);
+                }
+                span:nth-child(4) {
+                    .translate3d(2px, 0, 0);
+                }
+            }
+            
+            span {
+                .transition(transform 0.5s cubic-bezier(0.4, 0, 0.2, 1));
+            }
+        }
+        
+        span {
+            height: 2px;
+            background: #002744;
+            background: white;
+            width: 16px;
+            will-change: background-color, background;
+            margin-bottom: 2px;
+            margin-top: 1px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            .transition(background 0.5s cubic-bezier(0.4, 0, 0.2, 1));
+            position: relative;
+                        
+            html.tablet & {
+                width: 30px;
+                height: 3px;
+                margin-top: 3px;
+                margin-bottom: 3px;
+                background: white !important;
+            }
+            
+            html.mobile & {
+                width: 19px;
+                height: 2px;
+                margin-top: 3px;
+                margin-bottom: 3px;
+                background: white !important;
+            }
+        }
+    }
+    
+    .menu-summary {
+        padding-left: 50px;
+        padding-right: 50px;
+        border-top: 1px solid #e5e9ec;
+        border-right: 1px solid #e5e9ec;
+        border-bottom: 1px solid #e5e9ec;
+        .box-sizing();
+        .inline-block();
+        height: 100%;
+        vertical-align: top;
+        display: none;
+        .translate3d(-20px, 0, 0);
+        .opacity(0);
+        will-change: opacity, transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+        
+        html.ie7 & {filter: none!important; position: absolute; display: none !important;}
+            
+        html.tablet & {border: none;}
+        html.mobile & {border: none; padding-left: 24px;}
+        
+        .overlay {
+            width: 0%;
+            position: absolute;
+            left: 0px;
+            height: 100%;
+            background: #002744;
+            top: 0px;
+            .transition(width 0.5s cubic-bezier(0.4, 0, 0.2, 1));
+            
+            html.ie7 &, html.ie8 & {display: none!important;}
+        }
+        
+       html.notouch:not(.ie7):not(.ie8) &:hover {
+            .overlay {
+                width: 100%;
+            }
+            
+            span {
+                color: white;
+            }
+        }
+        
+        span {
+            color: #002744;
+            .inline-block();
+            vertical-align: middle;
+            text-transform: uppercase;
+            .bold();
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            .transition(color 0.5s cubic-bezier(0.4, 0, 0.2, 1));
+            position: relative;
+            
+            html.tablet & {color: white; font-size: 14px; letter-spacing: 2px;}
+            html.mobile & {color: white; font-size: 9px; letter-spacing: 2px;}
+        }
+    }
+}
+
+#navigation-menu-bluebar {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 80px;
+    background: #002744;
+    display: none;
+    
+    html.tablet & {z-index: 1;}
+    html.mobile & {z-index: 1; height: 40px;}
+    
+    .sprite {
+        position: absolute;
+        left: 50%;
+        margin-left: -130/2px;
+        top: 24px;
+        
+        html.mobile & {
+            left: auto;
+            right: -29px;
+            .scale(0.4);
+            top: 3px;
+            margin-left: 0px;
+        }
+    }
+}
+
+#navigation-summary-wrapper {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    display: none;
+    overflow: hidden;
+    html.ie7 &, html.ie8 & {background: white; z-index: 100;}
+    
+    html.mobile &, html.tablet & {z-index: 2;}
+    
+    .summary-background {
+        background: white;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        width: 100%;
+        height: 100%;
+        will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+        
+        html.ie7 &, html.ie8 & {display: none!important;}
+    }
+    
+    .sprite.icon-logo-longines-blue {
+        position: absolute;
+        top: 2.5%;
+        left: 50%;
+        margin-left: -130/2px;
+        will-change: opacity;
+        
+        html.mobile & {
+            left: auto;
+            right: -29px;
+            .scale(0.4);
+            top: 3px;
+            margin-left: 0px;
+        }
+    }
+    
+    .close-wrapper {
+        position: absolute;
+        cursor: pointer;
+        left: 60px;
+        top: 40px;
+        .transition(transform 0.5s cubic-bezier(0.4, 0, 0.2, 1));
+        
+        html.notouch &:hover {
+            .rotate(90deg);
+        }
+        
+        html.mobile & {
+            left: 17px;
+            top: 11px;
+        }
+    }
+    
+    > .v-align {
+        height: 100%; width: 100%;
+        
+        .v-align-before {html.mobile & {display: none;}}
+    }
+    
+    .separator-navigation-mobile {
+        width: 0%;
+        height: 1px;
+        background: #e8ecee;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        will-change: width;
+    }
+    
+    .navigation-summary-content {
+        position: relative;
+        width: 100%;
+        margin-top: 60px;
+        
+        html.mobile & {
+            display: block;
+            margin-top: 40px;
+        }
+        
+        .summary-wrapper {
+            background: none;
+            
+            html.tablet & {padding-left: 6.8%;}
+            html.mobile & {padding-left: 5%; padding-top: 5%;}
+            
+            .magazine-title {
+                will-change: opacity, transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+                
+                html.mobile & {font-size: 17px; line-height: 20px;}
+            }
+            
+            .magazine-subtitle {
+                will-change: opacity, transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+                
+                html.mobile & {font-size: 12px; line-height: 16px;}
+            }
+            
+            .magazine-item {
+                padding-bottom: 50px;
+                
+                html.mobile & {padding-bottom: 0px;}
+
+                .magazine-title {margin-top: 0px;}
+
+                .separator {margin-top: 38px; html.mobile & {display: none;}}  
+                
+                .magazine-navigation {
+                    will-change: opacity;
+                    
+                    html.tablet & {left: 6.7%;}
+                    
+                    .navigation-progress {
+                        html.mobile & {left: 37px;}
+                    }
+                }
+                
+                .magazinepage-wrapper {
+                    margin-top: 38px;
+                    overflow: visible;
+                    will-change: opacity;
+
+                    .magazinepage-item {
+                        width: 390px;
+                        will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform, opacity;
+
+                        html.tablet & {width: 286px;}
+                        html.mobile & {width: 174px;}
+
+                        img {height: 100%; width: auto;}
+                    }
+                }
+            }
+        }
+    }
+}
+
+#navigation-overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: black;
+    will-change: opacity;
+    display: none;
+}

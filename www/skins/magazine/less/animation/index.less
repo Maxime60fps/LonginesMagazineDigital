@@ -1,0 +1,107 @@
+html.scrollanim {
+    
+    canvas {.translate3d(0,0,0);}
+    
+//html.pouet {
+    .trigger-animation[data-anim='mask3'] {
+        img {
+            .opacity(0);
+            .scale(0.7);
+            .transition(all 2.5s @easeOutExpo);
+            will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform, opacity;
+            
+            &.animate {
+                .opacity(1);
+                .scale(1);
+            }
+        }
+    }
+    
+    .trigger-animation[data-anim='mask2'] {}
+    
+    .trigger-animation[data-anim='letter'] {
+        will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+        span {will-change: opacity;}
+    }
+    
+    .trigger-animation[data-anim='parallax'] {
+        position: relative;
+        overflow: hidden;
+        .backface-visibility();
+        will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+    }
+    
+    .trigger-animation[data-anim='parallaxcss'] {
+        overflow: hidden;
+        .backface-visibility();
+        
+        img {
+            margin-bottom: -10%;
+            will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+            .transition(transform 3s @easeOutExpo);
+            .translate3d(0, -200px, 0);
+        }
+        
+        &.animate {
+            img {.translate3d(0, 0, 0);}
+        }
+    }
+    
+    .trigger-animation[data-anim='appear'] {
+        .translate3d(0px, 50px, 0px);
+        .opacity(0);
+        .transition(all 2s @easeOutExpo);
+        will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform, opacity;
+        
+        &.animate {
+            .translate3d(0px, 0px, 0px);
+            .opacity(1);
+        }
+    }
+    
+    .trigger-animation[data-anim='triangle'] {
+        .article6-picture-overlay {
+            will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+            .transition(transform 2s @easeOutExpo);
+            .translate3d(0px,0px,0px);
+        }
+        
+        &.animate {
+            .article6-picture-overlay {.translate3d(0px, 210px,0px);}
+        }
+    }
+    
+    .trigger-animation[data-anim='summary'] {
+        .magazine-title, .magazine-subtitle {
+            .opacity(0);
+            will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform, opacity;
+        }
+        
+        .magazinepage-wrapper {
+            .opacity(0);
+            will-change: opacity;
+            
+            .magazinepage-item {
+                will-change: transform, -webkit-transform, -moz-transform, -ms-transform, -o-transform;
+            }
+        }
+        
+        .separator {
+            will-change: width;
+            width: 0%;
+        }
+        
+        .magazine-navigation {
+            .opacity(0);
+            will-change: opacity;
+        }
+        
+    }
+}
+
+html.tablet .trigger-animation[data-anim='parallaxcss'] img, html.mobile .trigger-animation[data-anim='parallaxcss'] img {.translate3d(0, 0px, 0);}
+
+html.mobile .trigger-animation[data-anim='parallax'] {.translate3d(0, 0, 0) !important;}
+
+html.touch .trigger-animation[data-anim='parallaxcss'] img {margin-bottom: -5%; .translate3d(0, -100px, 0);}
+html.mobile, html body[data-isexport='1'] .trigger-animation[data-anim='parallaxcss'] img {margin-bottom: 0px !important; .translate3d(0, 0px, 0) !important;}

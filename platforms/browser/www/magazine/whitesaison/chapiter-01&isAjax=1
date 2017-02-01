@@ -1,0 +1,412 @@
+<section id="section-page" data-params='{"module":"magazine","controller":"page","action":"index","slug":"whitesaison","page":"chapiter-01","lang":"en-us"}' data-jsfile="page" data-pagetitle="">
+
+    <!-- Début templates -->
+    
+        
+    <!-- Fin templates -->
+    <div id="page-separator-content-summary"></div>
+    
+    <div class="separator-navigation-mobile hide-ondesktop hide-ontablet"></div>
+
+<div class="summary-wrapper  no-title blue-version">
+            <div class="magazine-item trigger-animation" data-anim="summary">
+            
+                        
+
+            <div class="magazinepage-wrapper">
+                <div class="magazinepage-content">
+                    <div class="magazinepage-marginleft">
+                        
+                                                    <a href="magazine/whitesaison/chapter-01" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-01-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-01-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">01</div>
+                                    <div class="magazinepage-title">Timekeeping by Longines</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-02" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-02-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-02-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">02</div>
+                                    <div class="magazinepage-title">50 years FIS ski world cup</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-03" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-03-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-03-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">03</div>
+                                    <div class="magazinepage-title">Events around the world</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-04" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-04-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-04-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">04</div>
+                                    <div class="magazinepage-title">Interview with Markus Waldner</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-05" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-05-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-05-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">05</div>
+                                    <div class="magazinepage-title">FIS ski world cup – Aspen</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-06" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-06-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-06-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">06</div>
+                                    <div class="magazinepage-title">FIS president, Gian-Franco Kasper</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-07" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-07-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-07-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">07</div>
+                                    <div class="magazinepage-title">Behind the scenes</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-08" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-08-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-08-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">08</div>
+                                    <div class="magazinepage-title">Interview with Maxime Mosset</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-09" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-09-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-09-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">09</div>
+                                    <div class="magazinepage-title">St. Moritz</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-10" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-10-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-10-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">10</div>
+                                    <div class="magazinepage-title">Interview with Aksel Lund Svindal</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-11" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-11-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-11-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">11</div>
+                                    <div class="magazinepage-title">Longines awards</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whitesaison/chapter-12" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-01-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-01-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">12</div>
+                                    <div class="magazinepage-title">TESTING MAX</div>
+                                </div>
+                            </a>
+                                            </div>
+                </div>
+
+                <div class="magazinepage-next">
+                    <i class="sprite icon-general-arrow-right-white-big"></i>
+                </div>
+            </div>
+
+            <div class="magazine-navigation no-left">
+                <div class="navigation-progress">
+                    <div class="progress-notfilled"></div>
+                    <div class="progress-filled"></div>
+                </div>
+
+                <div class="navigation-cursor">
+                    <div class="cursor-white"></div>
+                    <div class="cursor-left sprite icon-summary-arrow-left-white"></div>
+                    <div class="cursor-center"></div>
+                    <div class="cursor-border"></div>
+                    <div class="cursor-right sprite icon-summary-arrow-right-white"></div>
+                </div>
+            </div>            
+        </div>
+            
+</div>        
+</section>
+
+<div id="page-summary-content">
+    <div class="separator-navigation-mobile hide-ondesktop hide-ontablet"></div>
+
+<div class="summary-wrapper   ">
+            <div class="magazine-item " data-anim="summary">
+            
+                            <div class="magazine-title">WHITE SAISON 03</div>
+                <div class="magazine-subtitle">A winter magazine by longines - EDItion 2016/2017</div>
+                <div class="separator"></div>
+                        
+
+            <div class="magazinepage-wrapper">
+                <div class="magazinepage-content">
+                    <div class="magazinepage-marginleft">
+                        
+                                                    <a data-href="magazine/whitesaison/chapter-01" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-01-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-01-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">01</div>
+                                    <div class="magazinepage-title">Timekeeping by Longines</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-02" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-02-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-02-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">02</div>
+                                    <div class="magazinepage-title">50 years FIS ski world cup</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-03" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-03-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-03-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">03</div>
+                                    <div class="magazinepage-title">Events around the world</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-04" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-04-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-04-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">04</div>
+                                    <div class="magazinepage-title">Interview with Markus Waldner</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-05" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-05-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-05-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">05</div>
+                                    <div class="magazinepage-title">FIS ski world cup – Aspen</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-06" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-06-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-06-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">06</div>
+                                    <div class="magazinepage-title">FIS president, Gian-Franco Kasper</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-07" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-07-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-07-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">07</div>
+                                    <div class="magazinepage-title">Behind the scenes</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-08" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-08-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-08-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">08</div>
+                                    <div class="magazinepage-title">Interview with Maxime Mosset</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-09" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-09-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-09-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">09</div>
+                                    <div class="magazinepage-title">St. Moritz</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-10" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-10-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-10-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">10</div>
+                                    <div class="magazinepage-title">Interview with Aksel Lund Svindal</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-11" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-11-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-11-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">11</div>
+                                    <div class="magazinepage-title">Longines awards</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whitesaison/chapter-12" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-01-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-01-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">12</div>
+                                    <div class="magazinepage-title">TESTING MAX</div>
+                                </div>
+                            </a>
+                                            </div>
+                </div>
+
+                <div class="magazinepage-next">
+                    <i class="sprite icon-general-arrow-right-white-big"></i>
+                </div>
+            </div>
+
+            <div class="magazine-navigation no-left">
+                <div class="navigation-progress">
+                    <div class="progress-notfilled"></div>
+                    <div class="progress-filled"></div>
+                </div>
+
+                <div class="navigation-cursor">
+                    <div class="cursor-white"></div>
+                    <div class="cursor-left sprite icon-summary-arrow-left-blue"></div>
+                    <div class="cursor-center"></div>
+                    <div class="cursor-border"></div>
+                    <div class="cursor-right sprite icon-summary-arrow-right-blue"></div>
+                </div>
+            </div>            
+        </div>
+            
+</div></div>
+
+
+<div id="widget-footer">
+    
+    <div class="footer-mention">© 2017 Longines Watch Co. Francillon Ltd., All rights reserved</div>
+    
+    <a href="magazine" class="sprite icon-logo-longines-blue"></a>
+    
+    <div class="footer-backtotop">
+        <span>Back to top</span>
+        <i class="sprite icon-general-arrow-top-blue"></i>
+    </div>
+
+</div>

@@ -1,0 +1,921 @@
+<section id="section-page" data-params='{"module":"magazine","controller":"page","action":"index","slug":"whiteseason","page":"chapter-03","lang":"en-us"}' data-jsfile="page" data-pagetitle="Events around the world - White Season 2017 | Longines">
+
+    <!-- Début templates -->
+    
+    
+
+<div class="pagetemplate-header">    
+    <div class="header-background-wrapper">
+        <img class="header-background1" data-srcdesktop="mag/uploads/magazine/page/template/picture/cover-white-season-2017-chapter-03-1920x1400.jpg"
+                    data-widthdesktop="1920" data-heightdesktop="1400"
+                                    data-srcmobile="mag/uploads/magazine/page/template/picture/mobile/cover-white-season-2017-chapter-03-380x670.jpg"
+                data-widthmobile="380" data-heightmobile="670"
+             />
+
+                    <img class="header-background2 hide-onmobile" src="mag/uploads/magazine/page/template/picture/header/plan1/cover-white-season-2017-chapter-03-1920x1400.png"
+                    data-widthdesktop="1920" data-heightdesktop="1400"/>
+        
+                    <img class="header-background3 hide-onmobile" src="mag/uploads/magazine/page/template/picture/header/plan2/cover-white-season-2017-chapter-03-1920x1400.png"
+                    data-width="1920" data-height="1400"/>
+            </div>
+    
+    <img class="header-particle1 no-resize" src="skins/magazine/images/template/header/particle.png" />
+    <img class="header-particle2 no-resize" src="skins/magazine/images/template/header/particle.png" />        
+    
+    <div class="text-wrapper v-align ">                    
+        <span class="v-align-before"></span>
+        <div class="v-align-div">  
+                        <div class="text-content">
+                <h2 class="header-title" style=''>
+                    Chapter 03- White season                </h2>
+                <h1 class="header-subtitle" style=''>
+                    <span>events around</span><br/><span>the world</span>
+                </h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="scrollto-wrapper">
+        <div class="scrollto-content">
+            <div class="scrollto-circle"></div>
+            <svg height="120" width="120"><circle cx="60" cy="60" r="59" stroke="#003150" stroke-width="3" fill="transparent"/></svg>
+
+            <div class="scrollto-text">Scroll <br/>to explore</div>
+            <i class="sprite icon-general-arrow-bottom-white"></i>
+        </div>
+    </div>
+    
+    <a href="magazine" class="sprite icon-logo-longines-white  hide-onmobile"></a>
+</div><div class="pagetemplate-article5 pagetemplate">
+    
+    <div class="template-center">
+        <div class="template-title template-title-row trigger-animation" data-anim="appear"><div class="title-row"></div><span>50 years fis ski world cup 2016/2017</span></div>
+          
+                    <div class="template-picture-wrapper trigger-animation" data-anim="appear">
+                <img class="template-picture" data-srcdesktop="mag/uploads/magazine/page/template/picture/article5-white-season-2017-chapter-03-320x200.jpg"
+                                             data-srcmobile="mag/uploads/magazine/page/template/picture/mobile/article5-white-season-2017-chapter-03-128x80.jpg"
+                     />
+            </div>
+                   
+                
+        <div class="template-item-wrapper trigger-animation columnize-wrapper" data-anim="appear">
+                            <div class="template-item">
+                    <div class="template-item-title dontend"></div>
+                    <div class="template-item-description"></div>
+                </div>
+                    </div>
+        
+            
+    </div>
+    
+</div><div class="pagetemplate-article2 pagetemplate">
+    
+    <div class="template-center">
+        <div class="template-title trigger-animation" data-anim="appear"></div>
+        <div class="template-introduction trigger-animation" data-anim="appear"></div>
+    </div>
+    
+            <div class="template-item-picture-wrapper trigger-animation" data-anim="parallaxcss">
+            <div class="trigger-animation" data-anim="parallax">
+                <img data-srcdesktop="mag/uploads/magazine/page/template/picture/article2-white-season-2017-chapter-03-1920x1050-1.jpg"
+                                     data-srcmobile="mag/uploads/magazine/page/template/picture/mobile/article2-white-season-2017-chapter-03-768x421-1.jpg"
+                 />
+            </div>
+        </div>
+        
+</div><div class="pagetemplate-article3 pagetemplate">
+    
+    <div class="template-center">
+        <div class="template-title template-title-row trigger-animation" data-anim="appear"><div class="title-row"></div><span></span></div>
+        <div class="template-introduction trigger-animation" data-anim="appear"></div>
+    
+        <div class="template-item-wrapper trigger-animation columnize-wrapper" data-anim="appear"">
+                            <div class="template-item">
+                    <div class="template-item-title">sölden, austria</div>
+                    <div class="template-item-description">women: 22.10.2016<br>
+giant slalom<br>
+men: 23.10.2016<br>
+giant slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">levi, finland</div>
+                    <div class="template-item-description">women: 12.11.2016<br>
+slalom<br>
+men: 13.11.2016<br>
+slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">killington, usa</div>
+                    <div class="template-item-description">women: 26–27.11.2016<br>
+giant slalom, slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">lake louise, canada</div>
+                    <div class="template-item-description">women: 02–04.12.2016<br>
+downhill, super-g <br>
+men: 26–27.11.2016<br>
+downhill, super-g</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">beaver creek, usa</div>
+                    <div class="template-item-description">men: 02–04.12.2016<br>
+downhill, super-g, giant slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">sestriere, italy</div>
+                    <div class="template-item-description">women: 10–11.12.2016<br>
+giant slalom, slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">val d’isère, france
+</div>
+                    <div class="template-item-description">women: 16–18.12.2016<br>
+downhill, super-g,<br> 
+parallel slalom, combined<br>
+men: 10–11.12.2016<br>
+giant slalom, slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">val gardena, italy</div>
+                    <div class="template-item-description">men: 16–17.12.2016<br>
+downhill, super-g</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">alta badia, italy
+</div>
+                    <div class="template-item-description">men: 18–19.12.2016<br>
+giant slalom, parallel<br>
+(night)</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">courchevel, france
+</div>
+                    <div class="template-item-description">women: 20.12.2016<br>
+giant slalom </div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">madonna di camp., italy
+
+</div>
+                    <div class="template-item-description">men: 22.12.2016<br> 
+slalom (night)</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">semmering, austria
+</div>
+                    <div class="template-item-description">women: 28–29.12.2016<br>
+giant slalom, slalom (night)</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">santa caterina, italy</div>
+                    <div class="template-item-description">men: 28–29.12.2016<br>
+downhill, combined</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">zagreb, croatia</div>
+                    <div class="template-item-description">women: 03.01.2017<br>
+slalom (night)<br>
+men: 05.01.2017<br>
+slalom (night)</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">maribor, slovenia</div>
+                    <div class="template-item-description">women: 07–08.01.2017<br>
+giant slalom, slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">adelboden, switzerland</div>
+                    <div class="template-item-description">men: 07–08.01.2017<br>
+giant slalom, slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">flachau, austria</div>
+                    <div class="template-item-description">women: 10.01.2017<br>
+slalom (night)</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">wengen, switzerland</div>
+                    <div class="template-item-description">men: 13–15.01.2017<br>
+downhill, slalom,<br>
+combined</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">altenmarkt/zauch., aus
+</div>
+                    <div class="template-item-description">women: 14–15.01.2017<br>
+downhill, combined</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">kitzbühel, austria
+</div>
+                    <div class="template-item-description">men: 20–22.01.2017<br>
+downhill, super-g,<br>
+slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">garmisch-partenk., ger</div>
+                    <div class="template-item-description">women: 21–22.01.2017<br>
+downhill, super-g<br>
+men: 28–29.01.2017<br>
+downhill, giant slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">kronplatz, italy
+</div>
+                    <div class="template-item-description">women: 24.01.2017<br>
+giant slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">schladming, austria
+</div>
+                    <div class="template-item-description">men: 24.01.2017<br>
+slalom (night)</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">cortina d’ampezzo, italy
+</div>
+                    <div class="template-item-description">women: 28–29.01.2017<br>
+downhill, super-g</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">stockholm, sweden
+</div>
+                    <div class="template-item-description">women: 31.01.2017<br>
+men: 31.01.2017<br>
+parallel, city event</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">st. moritz, switzerland
+</div>
+                    <div class="template-item-description">women: 06–19.02.2017<br>
+men: 06–19.02.2017<br>
+downhill, super-g,<br>
+giant slalom, slalom,<br>
+combined, parallel,<br>
+nations team event</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">crans-montana, switzerland
+</div>
+                    <div class="template-item-description">women: 25–26.02.2017<br>
+super-g, combined</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">kvitfjell, norway
+</div>
+                    <div class="template-item-description">men: 25–26.02.2017<br>
+downhill, super-g</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">jeongseon, south korea
+</div>
+                    <div class="template-item-description">women: 04–05.03.2017<br>
+downhill, super-g</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">kranjska gora, slovenia
+</div>
+                    <div class="template-item-description">men: 04–05.03.2017<br>
+giant slalom, slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">squaw valley, usa
+</div>
+                    <div class="template-item-description">women: 10–11.03.2017<br>
+giant slalom, slalom</div>
+                </div>
+                            <div class="template-item">
+                    <div class="template-item-title">aspen, usa</div>
+                    <div class="template-item-description">women: 15–19.03.2017<br>
+men: 15–19.03.2017<br>
+finals, downhill, super-g,<br>
+giant slalom, slalom, parallel, nations team event<br></div>
+                </div>
+                    </div>
+        
+                    <a class="template-cta cta-button no-history trigger-animation" data-anim="appear" href="https://www.longines.com/universe/events-sports/calendar/01/2017">
+                <span>See all events</span>
+            </a>
+            
+    </div>
+    
+</div><div class="pagetemplate-article6 pagetemplate">
+    
+    <div class="template-item-wrapper template-center">
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-0.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-0.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">sölden</div>
+                    <div class="template-item-subtitle">austria</div>
+                    <div class="template-item-description">Since October 1993 the ski resort of Sölden has launched the World Cup season eighteen times on the impressive Rettenbach glacier which lies at an altitude of 3000 m. A mass of spectators, a tricky piste and an exciting spectacle have enabled the Organising Committee to create a true sports spectacle. Each year hundreds of journalists flock to the Ötztal valley, famous the world over since the discovery in 1991 of the frozen remains of a traveller from the prehistoric period that emerged from one of the nearby glaciers. Most of the top specialists in giant slalom have won the race down the vertiginous Rettenbach piste, including the American Mikaela Shiffrin in 2014.
+</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-1.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-1.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">lake louise</div>
+                    <div class="template-item-subtitle">canada</div>
+                    <div class="template-item-description">Lake Louise has become one of the favourite stages among the World Cup competitors, who appreciate the beauty of the natural surroundings and the calm of this part of the Banff National Park. Since they all stay in the same hotel – the imposing Fairmont Château Lake Louise, located on the shores of the breathtaking Lake Louise – they often see each other at meals taken in the same dining room. This area, which has been designated a World Heritage site by UNESCO, has been hosting the best of the world’s skiers since 1980, which saw the first World Cup downhill race at the end of the season. At that time, the Crazy Canucks, a group of particularly daring Canadian skiers, had already celebrated numerous wins in the classical races held in the Alps, but they dreamed of one day racing at home. This competition was indeed one of their most wonderful successes.</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-2.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-2.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">val gardena</div>
+                    <div class="template-item-subtitle">italy</div>
+                    <div class="template-item-description">Having organised its first World Cup downhill race in February 1969, followed by the World Championships in 1970, the ski resort of Val Gardena soon became a must in December, thanks to its superb Saslong piste which will be used from now on for the first European speed races of the season. This charming village in the Dolomites, where Ladin is spoken as well as Italian, is one of the most popular tourist areas in the autonomous province of Alto Adige (also called the Südtirol by the local inhabitants). One can ski over to the neighbouring resort of Alta Badia (Corvara, La Villa, Colfosco, San Cassiano, Badia, La Valle) on the other side of the Gardena Pass. The giant slalom run on the tricky Gran Risa piste is one of the most prestigious of the season.</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-3.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-3.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">beaver creek</div>
+                    <div class="template-item-subtitle">usa</div>
+                    <div class="template-item-description">The Beaver Creek competition has gradually made a name for itself over the years as one of the highlights at the start of the season, thanks in particular to the spectacular route of the Birds of Prey descent built for the World Championships in 1999. Since it was first run in 1997, this iconic Vail Valley Foundation race fascinates the public as much as the competitors, who dream of winning here – an especially tough challenge in view of the difficulty of the piste with its vertiginous sections that are more like something one would expect to see in the classical January competitions. This part of the state of Colorado, which has again been hosting FIS World Cup competitions in 2015 with the neighbouring resort of Vail, is one of the few locations that have organised all the various skiing disciplines over the past few years, holding up to six races in ten days, as was the case in 2011.
+</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-4.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-4.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">val d’isère</div>
+                    <div class="template-item-subtitle">france</div>
+                    <div class="template-item-description">Val d’Isère, situated at an altitude of 1850 m, has long been one of the most popular ski resorts in France. This mountain village became famous following the exploits of a local skier, Henri Oreiller, in 1948 in St. Moritz, and has continued to grow and innovate. An international competition was organised there in 1955. Called the Critérium de la Première Neige, it was for a long time held in December on the slopes of La Daille, at the edge of the village. After the 1968/1969 season, the competition became an essential part of the World Cup circuit. ­Longines organised in Val d’Isère the ­Longines Future Ski Champions race, which brought together the world’s best male skiers under the age of 16 in 2013 and the world’s best female skiers under the age of 16 in 2014 in real World Cup conditions.
+</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-5.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-5.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">wengen</div>
+                    <div class="template-item-subtitle">switzerland</div>
+                    <div class="template-item-description">Out of all the competitions on the World Cup calendar, the Lauberhorn in Wengen is the oldest and perhaps the most difficult race to win. It was in 1930 that this now legendary race was first run, on the initiative of Ernst Gertsch, a passionate Alpine skier from the small mountain village, accessible only by train. Starting from the top of the Lauberhorn, high above the railway station on the Kleine Scheidegg and opposite the majestic summits of the Eiger, Mönch and Jungfrau, the long piste snakes down the slope for 4.5 km to the finishing line 1000 m lower down on an artificial platform. Thousands of spectators line the piste opposite the well known, spectacular Hundschopf (“Dog’s Head”), a vertiginous jump into thin air that all the competitors really love. The slalom run is also quite tricky, so tricky in fact that the names of the famous winners are written in the Golden Ledger of this great monument of the Alpine skiing circuit.</div>
+                </div>
+            </div>
+          
+    </div>
+    
+</div><div class="pagetemplate-article6 pagetemplate">
+    
+    <div class="template-item-wrapper template-center">
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-6.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-6.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">adelboden</div>
+                    <div class="template-item-subtitle">switzerland</div>
+                    <div class="template-item-description">Held during the week for many years, immediately before or after the Lauberhorn race in Wengen, the classical giant slalom of the Adelboden International Ski Meeting has become an especially popular event since the World Cup committee allotted it a whole weekend just before the prestigious Wengen race. The famous Chuenigsbergli piste is now also used for a slalom race that is equally exciting for the tens of thousands of spectators who throng to the edge of the piste and the finishing line. The main competition held in the Bernese Oberland, launched in 1955 by a former Lauberhorn winner, Fred Rubi, director of Adelboden Tourist Office at the time, has now become an important stop for specialists in the technical disciplines. A win at Adelboden represents true recognition for the best among them.</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-7.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-7.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">schladming</div>
+                    <div class="template-item-subtitle">austria</div>
+                    <div class="template-item-description">A popular winter sports resort since the 19th century, Schladming is a former mining town in western Styria. Like most Austrian ski resorts, Schladming is located at an altitude of less than 1000 meters, sloping down into the wide valley of the Enns with its low wooded rises. Just one mountain range dominates: the glacier-topped peaks of the Dachstein massif. Schladming hosted the World Championships for the first time in 1982 and was then the unanimous choice of the selectors in 2013 a result that is testimony to the resort’s world-class standards. The occasional World Cup competition had been held in Schladming between 1973 and 1990 before the resort finally found its own unique formula and staged a night competition. The event was an instant success right from its inception in 1997. For slalom specialists, the course is a benchmark in the sport. It is widely considered one of the most demanding of the season.</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-8.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-8.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">garmisch-partenk.</div>
+                    <div class="template-item-subtitle">germany</div>
+                    <div class="template-item-description">A famous winter sports hub in Bavaria, Garmisch-Partenkirchen has long been part of the international circuit for competitive Alpine skiing. In 1936 the first races in the Winter Olympics were held in this small town which is less than an hour from Munich by car. Since the 1950’s, the famous Arlberg-Kandahar races have been regularly held at this resort, which also organised the FIS World Championships in 1978 and 2011. The advent of the World Cup in 1967 confirmed the importance of this German ski resort as part of the international circuit. And, since the spectacular performances seen in January 1973 on a totally iced-over piste, Garmisch-Partenkirchen has always been included in the World Cup calendar and not just every five years as it was the case earlier.</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-9.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-9.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">kitzbühel</div>
+                    <div class="template-item-subtitle">austria</div>
+                    <div class="template-item-description">Kitzbühel remains one of the winter’s leading locations for alpine skiing at all levels. The famous Hahnenkamm races attract tens of thousands of spectators to the mediaeval Tyrolean town every year. This classic race is considered a must-do event by all World Cup competitors. Downhill athletes dream of conquering the legendary Streif (“The Ribbon”), while slalom specialists are in awe of the tricky curves of the unique Ganslernhang piste. Success at this prestigious event, launched in 1931, is a source of pride and glory. And that is not all: the winners also see their names immortalised on one of the red gondolas of the famous Hahnenkammbahn, the cable railway that has been serving the legendary slopes since 1928. ­Longines is now also a partner of the popular KitzCharityTrophy, a charity race that gives both skiing professionals and famous figures from all walks of life the chance to test their skills on part of the legendary Streif.
+</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-10.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-10.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">st. moritz</div>
+                    <div class="template-item-subtitle">switzerland</div>
+                    <div class="template-item-description">St. Moritz welcomed successfully the 2015/2016 FIS World Cup finals. And in 2017 the town will again be hosting the FIS World Championships on the superb pistes on Corviglia. This small town is visited by hundreds of thousands of tourists every winter, many of whom admire its first-class hotels. St. Moritz remains very attached to the various disciplines of competitive sport that are practised on the surrounding slopes or on the large lake overlooked by the town which regularly freezes over in winter. For many years St. Moritz has been famous for its horse-racing on snow, its bobsleigh track and the Cresta Run – a favourite haunt of daring skeleton riders – but the resort is also an important centre for competitive Alpine skiing. For the past 20 years many international competitions have taken place here.</div>
+                </div>
+            </div>
+                    <div class="template-item">
+                <div class="template-picture-wrapper trigger-animation" data-anim="triangle">
+                    <img data-srcdesktop="mag/uploads/magazine/page/templateitem/picture/article6-white-season-2017-chapter-03-307x212-11.jpg"
+                                                             data-srcmobile="mag/uploads/magazine/page/templateitem/picture/mobile/article6-white-season-2017-chapter-03-246x170-11.jpg"
+                     />
+                    <div class="article6-picture-overlay"><span></span></div>
+                </div>
+                
+                <div class="template-item-text-wrapper trigger-animation" data-anim="appear">
+                    <div class="template-item-title">aspen</div>
+                    <div class="template-item-subtitle">usa</div>
+                    <div class="template-item-description">The town of Aspen, known as the place where the rich and famous gather for ski holidays and summer retreats, will have the honour of welcoming the 2016/2017 FIS Ski World Cup Finals. The history of this former silver mining community is indeed closely connected with ski racing, as the FIS competitions have remained a central event for many years since 1939, when the first sanctioned races took place. The resort hosted the first World Championships outside of Europe in 1950 and then featured on the first official FIS World Cup calendar in 1968. While Aspen has been a regular station on the ladies’ World Cup tour for the past 15 years, the Finals will mark the return of the men’s World Cup to this resort for the first time since 2001. The Aspen races will also include the return of the iconic America’s Downhill course.  </div>
+                </div>
+            </div>
+          
+    </div>
+    
+</div><div class="pagetemplate-article2 pagetemplate">
+    
+    <div class="template-center">
+        <div class="template-title trigger-animation" data-anim="appear"></div>
+        <div class="template-introduction trigger-animation" data-anim="appear"></div>
+    </div>
+    
+            <div class="template-item-picture-wrapper trigger-animation" data-anim="parallaxcss">
+            <div class="trigger-animation" data-anim="parallax">
+                <img data-srcdesktop="mag/uploads/magazine/page/template/picture/article2-white-season-2017-chapter-03-1920x1050.jpg"
+                                     data-srcmobile="mag/uploads/magazine/page/template/picture/mobile/article2-white-season-2017-chapter-03-768x421.jpg"
+                 />
+            </div>
+        </div>
+        
+</div><div class="pagetemplate-ad1 pagetemplate">
+    
+    <div class="template-picture-wrapper template-center trigger-animation" data-anim="mask2">
+        <img data-srcdesktop="mag/uploads/magazine/page/template/picture/ad1-white-season-2017-chapter-03-792x1078-11.jpg"
+                                                 data-srcmobile="mag/uploads/magazine/page/template/picture/mobile/ad1-white-season-2017-chapter-03-317x431-11.jpg"
+             />
+        
+    </div>
+    
+</div>    
+    <!-- Fin templates -->
+    <div id="page-separator-content-summary">Summary</div>
+    
+    <div class="separator-navigation-mobile hide-ondesktop hide-ontablet"></div>
+
+<div class="summary-wrapper  no-title blue-version">
+            <div class="magazine-item trigger-animation" data-anim="summary">
+            
+            
+            <div class="magazinepage-wrapper">
+                <div class="magazinepage-content">
+                    <div class="magazinepage-marginleft">
+                                                    <a href="magazine/whiteseason" class="magazinepage-item">                            
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/introduction/small/cover-white-season-2017-introduction-1920x1400.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                         />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">00</div>
+                                    <div class="magazinepage-title">White Season 17 - Introduction</div>
+                                </div>
+                            </a>
+                        
+                                                    <a href="magazine/whiteseason/chapter-01" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-01-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-01-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">01</div>
+                                    <div class="magazinepage-title">Timekeeping by Longines</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-02" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-02-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-02-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">02</div>
+                                    <div class="magazinepage-title">50 years FIS ski world cup</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-03" class="magazinepage-item selected">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-03-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-03-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                                                    <div class="magazinepage-selected"></div>
+                                
+                                <div class="magazinepage-text">
+                                                                             <div class="magazinepage-youarein">You are in</div>"                     
+                                                                        <div class="magazinepage-number">03</div>
+                                    <div class="magazinepage-title">Events around the world</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-04" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-04-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-04-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">04</div>
+                                    <div class="magazinepage-title">Interview with Markus Waldner</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-05" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-05-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-05-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">05</div>
+                                    <div class="magazinepage-title">FIS ski world cup – Aspen</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-06" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-06-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-06-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">06</div>
+                                    <div class="magazinepage-title">FIS president, Gian-Franco Kasper</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-07" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-07-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-07-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">07</div>
+                                    <div class="magazinepage-title">Behind the scenes</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-08" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-08-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-08-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">08</div>
+                                    <div class="magazinepage-title">Interview with Maxime Mosset</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-09" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-09-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-09-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">09</div>
+                                    <div class="magazinepage-title">St. Moritz</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-10" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-10-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-10-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">10</div>
+                                    <div class="magazinepage-title">Interview with Aksel Lund Svindal</div>
+                                </div>
+                            </a>
+                                                    <a href="magazine/whiteseason/chapter-11" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/small/white-season-2017-chapter-11-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="405"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/small/mobile/white-season-2017-chapter-11-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="162" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">11</div>
+                                    <div class="magazinepage-title">Longines awards</div>
+                                </div>
+                            </a>
+                                            </div>
+                </div>
+
+                <div class="magazinepage-next">
+                    <i class="sprite icon-general-arrow-right-white-big"></i>
+                </div>
+                <div class="magazinepage-prev">
+                    <i class="sprite icon-general-arrow-left-white-big"></i>
+                </div>
+            </div>
+
+            <div class="magazine-navigation ">
+                <div class="navigation-progress">
+                    <div class="progress-notfilled"></div>
+                    <div class="progress-filled"></div>
+                </div>
+
+                <div class="navigation-cursor">
+                    <div class="cursor-white"></div>
+                    <div class="cursor-left sprite icon-summary-arrow-left-white"></div>
+                    <div class="cursor-center"></div>
+                    <div class="cursor-border"></div>
+                    <div class="cursor-right sprite icon-summary-arrow-right-white"></div>
+                </div>
+            </div>            
+        </div>
+            
+</div>        
+</section>
+
+<div id="page-summary-content">
+    <div class="separator-navigation-mobile hide-ondesktop hide-ontablet"></div>
+
+<div class="summary-wrapper   ">
+            <div class="magazine-item " data-anim="summary">
+            
+                            <div class="magazine-title">WHITE SEASON 17</div>
+                <div class="magazine-subtitle">A winter magazine by Longines - EdItion 2017</div>
+                <div class="separator"></div>
+            
+            <div class="magazinepage-wrapper">
+                <div class="magazinepage-content">
+                    <div class="magazinepage-marginleft">
+                                                    <a data-href="magazine/whiteseason" class="magazinepage-item">                            
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/introduction/cover-white-season-2017-introduction-1920x1400.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                         />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                <div class="magazinepage-text">
+                                    <div class="magazinepage-number">00</div>
+                                    <div class="magazinepage-title">White Season 17 - Introduction</div>
+                                </div>
+                            </a>
+                        
+                                                    <a data-href="magazine/whiteseason/chapter-01" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-01-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-01-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">01</div>
+                                    <div class="magazinepage-title">Timekeeping by Longines</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-02" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-02-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-02-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">02</div>
+                                    <div class="magazinepage-title">50 years FIS ski world cup</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-03" class="magazinepage-item selected">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-03-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-03-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                                                    <div class="magazinepage-selected"></div>
+                                
+                                <div class="magazinepage-text">
+                                                                             <div class="magazinepage-youarein">You are in</div>"                     
+                                                                        <div class="magazinepage-number">03</div>
+                                    <div class="magazinepage-title">Events around the world</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-04" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-04-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-04-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">04</div>
+                                    <div class="magazinepage-title">Interview with Markus Waldner</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-05" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-05-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-05-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">05</div>
+                                    <div class="magazinepage-title">FIS ski world cup – Aspen</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-06" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-06-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-06-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">06</div>
+                                    <div class="magazinepage-title">FIS president, Gian-Franco Kasper</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-07" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-07-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-07-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">07</div>
+                                    <div class="magazinepage-title">Behind the scenes</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-08" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-08-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-08-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">08</div>
+                                    <div class="magazinepage-title">Interview with Maxime Mosset</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-09" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-09-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-09-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">09</div>
+                                    <div class="magazinepage-title">St. Moritz</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-10" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-10-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-10-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">10</div>
+                                    <div class="magazinepage-title">Interview with Aksel Lund Svindal</div>
+                                </div>
+                            </a>
+                                                    <a data-href="magazine/whiteseason/chapter-11" class="magazinepage-item ">
+                                <div class="magazinepage-picture-wrapper">
+                                    <img data-srcdesktop="mag/uploads/magazine/summary/picture/white-season-2017-chapter-11-550x822.jpg"
+                                         data-widthdesktop="550" data-heightdesktop="822"                                                                                  data-srcmobile="mag/uploads/magazine/summary/picture/mobile/white-season-2017-chapter-11-220x329.jpg"
+                                         data-widthmobile="220" data-heightmobile="328" />
+                                </div>
+                                <div class="magazinepage-hide"><i class="t"></i><i class="r"></i><i class="b"></i><i class="l"></i></div>
+                                
+                                <div class="magazinepage-text">
+                                                                        <div class="magazinepage-number">11</div>
+                                    <div class="magazinepage-title">Longines awards</div>
+                                </div>
+                            </a>
+                                            </div>
+                </div>
+
+                <div class="magazinepage-next">
+                    <i class="sprite icon-general-arrow-right-white-big"></i>
+                </div>
+                <div class="magazinepage-prev">
+                    <i class="sprite icon-general-arrow-left-white-big"></i>
+                </div>
+            </div>
+
+            <div class="magazine-navigation ">
+                <div class="navigation-progress">
+                    <div class="progress-notfilled"></div>
+                    <div class="progress-filled"></div>
+                </div>
+
+                <div class="navigation-cursor">
+                    <div class="cursor-white"></div>
+                    <div class="cursor-left sprite icon-summary-arrow-left-blue"></div>
+                    <div class="cursor-center"></div>
+                    <div class="cursor-border"></div>
+                    <div class="cursor-right sprite icon-summary-arrow-right-blue"></div>
+                </div>
+            </div>            
+        </div>
+            
+</div></div>
+
+
+<div id="widget-footer">
+    
+    <div class="footer-mention">© 2017 Longines Watch Co. Francillon Ltd., All rights reserved</div>
+    
+    <a href="magazine" class="sprite icon-logo-longines-blue"></a>
+    
+    <div class="footer-backtotop">
+        <span>Back to top</span>
+        <i class="sprite icon-general-arrow-top-blue"></i>
+    </div>
+
+</div>

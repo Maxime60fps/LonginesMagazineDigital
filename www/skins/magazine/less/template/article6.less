@@ -1,0 +1,94 @@
+.pagetemplate-article6.pagetemplate {
+    
+    .template-center {
+        width: 1205px; /* Attention on rajoute un marge pour centrer*/
+        
+        html.tablet & {width: 644px;}
+        
+        .template-item {
+            width: 25.5%;
+            .inline-block();
+            vertical-align: top;
+            padding-bottom: 90px;
+            margin-left: 3.8%;
+            margin-right: 3.8%;
+            
+            html.tablet & {width: 298px; margin-right: 12px; margin-left: 12px;}
+            html.mobile & {width: 100%; margin-right: 0px; margin-left: 0px; display: block;}
+            
+            .article6-picture-overlay {
+                position: absolute;
+                top: 0px;
+                width: 100.5%;
+                height: 100%;
+                background: white;
+                left: 0px;
+                
+                html.no-scrollanim & {top: 210px;}
+                
+                span {
+                    background-image: url('../../images/mask/triangle.png');
+                    background-size: 100% auto;
+                    position: absolute;
+                    bottom: 100%;
+                    left: 0px;
+                    width: 100%;
+                    height: 50%;
+                    background-repeat: no-repeat;
+                    background-position-y: 100%;
+                }
+            }
+            
+            .template-item-text-wrapper {
+                position: relative;
+            }
+            
+            .template-item-title {
+                margin-top: -13px;
+//                font-size: 27px; // CP
+                font-size: 23px;
+                line-height: 31px;
+//                .freightdisp_prosemibold(); // CP
+                .romain_bp_headlineregular();
+                text-transform: uppercase;
+//                text-transform: none; // CP
+                
+                html.tablet & {
+//                    font-size: 21px; // CP
+                    font-size: 18px;
+                    line-height: 27px; margin-top: -30px;
+                }
+                html.mobile & {
+//                    font-size: 17px; // CP
+                    font-size: 15px;
+                    line-height: 16px; margin-top: -30px;
+                }
+            }
+            
+            .template-item-subtitle {
+//                .bold(); // CP
+                .euclid_flexbold();
+                font-size: 15px;
+                line-height: 25px;
+                color: #002744;
+                margin-top: 5px;
+                
+                html.tablet & {font-size: 12px; line-height: 20px; margin-top: 3px;}
+                html.mobile & {font-size: 15px; line-height: 12px; margin-top: 3px;}
+            }
+            
+            .template-item-description {
+                color: #74757f;
+//                .regular(); // CP
+                .romain_bp_headlineregular();
+                font-size: 15px;
+                line-height: 25px;
+                margin-top: 23px;
+                
+                html.tablet & {font-size: 12px; line-height: 20px; margin-top: 15px;}
+                html.mobile & {margin-top: 15px; line-height: 24px;}
+            }
+        }
+    }
+    
+}
